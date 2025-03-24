@@ -1,0 +1,14 @@
+D:\source\repos\gcs_truck\gcs_truck\bin\Debug\gcs_truck.exe.config
+D:\source\repos\gcs_truck\gcs_truck\bin\Debug\gcs_truck.exe
+D:\source\repos\gcs_truck\gcs_truck\bin\Debug\gcs_truck.pdb
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.csproj.AssemblyReference.cache
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.Form1.resources
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.Properties.Resources.resources
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.csproj.GenerateResource.cache
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.csproj.CoreCompileInputs.cache
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.exe
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.pdb
+D:\source\repos\gcs_truck\gcs_truck\bin\Debug\gcs_truck.exe.manifest
+D:\source\repos\gcs_truck\gcs_truck\bin\Debug\gcs_truck.application
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.exe.manifest
+D:\source\repos\gcs_truck\gcs_truck\obj\Debug\gcs_truck.application
